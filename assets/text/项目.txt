@@ -1,0 +1,14 @@
+项目名称：Penalty-shoot-and-Expression
+一句话介绍：研究球员在点球大战主罚前的面部视觉信息，能否在历史点球表现和比赛上下文之外，为该次罚球结果（Goal / Miss）提供额外的预测信号。
+GitHub：https://github.com/Grass456/Penalty-shoot-and-Expression
+图片文件名：project-01-cover.webp
+
+项目名称：多轮对话安全护栏路径依赖研究
+一句话介绍：项目关注端到端安全决定是否受对话路径影响，不用于开发自适应越狱方法。
+GitHub：https://github.com/Grass456/Final-Report
+图片文件名：project-02-cover.webp
+
+项目名称：mining-from-steam
+一句话介绍：挖掘steam评论中的潜在主题与游戏类型等因素之间的关联。
+GitHub：https://github.com/Zl-Hhhhhh/mining-from-steam
+图片文件名：project-03-cover.webp

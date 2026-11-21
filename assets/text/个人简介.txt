@@ -1,0 +1,6 @@
+个人简介
+网站名称：Maxcai的个人主页
+个人简介：AI领域的新人，喜欢将其他领域的爱好与AI融合，Vibe-coding重度患者。热爱足球和音乐，桑巴足球和R&Byyds。
+学习方向和关注领域：基于计算机视觉的多模态模型搭建与优化，LLM agents的设计与开发，数学建模和并行计算调优。
+邮箱：xcai166@connect.hkust-gz.edu.cn
+github连接：https://github.com/Grass456

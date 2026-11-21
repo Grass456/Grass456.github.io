@@ -1,0 +1,11 @@
+标题：Essay writing
+分类：学术写作
+摘要：如何完成一篇结构化的学术分析文章，而不是传统意义上自由发挥的议论文。
+
+标题：AlphaFold3
+分类：深度学习
+摘要：AF3 是从"蛋白折叠"扩展到全分子复合体（蛋白/核酸/配体）结构预测的基础模型。核心创新是 PairFormer（主干）→ 扩散 Transformer（结构模块） 的两段式架构。
+
+标题：UnifoLM-WMA
+分类：ASC
+摘要：UnifoLM-WMA（Unified Foundation of World Model and Action）是一个连接「高层环境感知」与「底层机器人控制」的具身智能框架：通过世界模型 + 动作条件控制，让智能体（如 Unitree G1 人形机器人、Z1 机械臂）在执行前做「mental rehearsal」——先在神经模拟器里推演未来状态，再付诸物理执行。
